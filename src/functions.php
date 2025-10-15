@@ -1,6 +1,6 @@
 <?php
 function saludo(){
-    echo "Saludos";
+    echo "Saludos desde funcionalidad-1";
 }
 
 function mensajePersonalizado($text)
