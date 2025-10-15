@@ -1,6 +1,6 @@
 <?php
 function saludo(){
-    echo "Saludos";
+    echo "Saludos desde master";
 }
 
 function mensajePersonalizado($text)
